@@ -19,4 +19,4 @@ Retrofit
 RxJava
 
 
-Glide
+Glide.
